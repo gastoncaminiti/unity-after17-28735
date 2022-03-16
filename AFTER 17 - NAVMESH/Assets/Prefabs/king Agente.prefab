@@ -41,9 +41,9 @@ GameObject:
   - component: {fileID: 5847788838209380024}
   - component: {fileID: 5847788838205955736}
   - component: {fileID: 5847788838207085656}
-  - component: {fileID: 1263691788}
+  - component: {fileID: 9048603533934564153}
   m_Layer: 0
-  m_Name: king
+  m_Name: king Agente
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -116,7 +116,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1263691788
+--- !u!114 &9048603533934564153
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -125,11 +125,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5847788838209012376}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5504765e0e0ec1439c58e45efbc69bd, type: 3}
+  m_Script: {fileID: 11500000, guid: 69099d4d3fcc58842bb8769fe4db510d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cursorPoint: {fileID: 0}
-  speed: 5
 --- !u!1 &5847788838209012378
 GameObject:
   m_ObjectHideFlags: 0
